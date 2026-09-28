@@ -1,0 +1,23 @@
+# Python
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build / packaging
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / environment
+*.log
+.env
